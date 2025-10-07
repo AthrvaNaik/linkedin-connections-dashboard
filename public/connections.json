@@ -1,0 +1,28 @@
+{
+  "elements": [
+    {
+      "id": "1",
+      "fullName": "Atharva Naik",
+      "profilePicture": "https://randomuser.me/api/portraits/men/32.jpg",
+      "position": "Software Engineer",
+      "companyName": "Guardwel Industries",
+      "companyId": "101"
+    },
+    {
+      "id": "2",
+      "fullName": "Tara Sharma",
+      "profilePicture": "https://randomuser.me/api/portraits/women/44.jpg",
+      "position": "Frontend Developer",
+      "companyName": "Prodigy Infotech",
+      "companyId": "102"
+    },
+    {
+      "id": "3",
+      "fullName": "Lisa Fernandes",
+      "profilePicture": "https://randomuser.me/api/portraits/women/67.jpg",
+      "position": "Backend Developer",
+      "companyName": "Guardwel Industries",
+      "companyId": "101"
+    }
+  ]
+}
