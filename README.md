@@ -183,5 +183,3 @@ B.E. Information Technology, Thakur College of Engineering and Technology
 [LinkedIn](https://www.linkedin.com/in/athrvanaik/) • [GitHub](https://github.com/athrvanaik)
 
 ---
-
-Would you like me to also make a **one-paragraph README summary** (for the GitHub repo description section) that captures this in 3–4 sentences?
